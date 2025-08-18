@@ -13,13 +13,9 @@ VIRUS2 was preceded by several other related instruments:
 - [GCMS at HJST](https://mcdonald.utexas.edu/research-facilities/HJST/gcms)
 - [VIRUS at HET](https://hydra.as.utexas.edu/?a=help&h=108)
 
-## VIRUS2 Documentation
-
-- VIRUS2 Software Development: 
-    - [Software Project Documentation](https://github.com/mcdo-hjst/virus2-docs/blob/main/virus2-docs.md)
-    - [Software Project Design](https://github.com/mcdo-hjst/virus2-docs/blob/main/virus2-system-design.md)
-
 ## VIRUS2 Repositories
+
+Some repositories are currently private and will return a `404` if you are not a member of the development team.
 
 - VIRUS2 Systems
     - **[virus2-systems](https://github.com/mcdo-hjst/virus2-systems/)**: Host system OS install, networking configuration, and user accounts
