@@ -1,8 +1,6 @@
-# Software for the 2.7m Harlan J Smith Telescope
+# MCDO-HJST
 
-Welcome!
-
-This GitHub organization hosts software and documentation developed for the [Harlan J Smith Telescope](https://mcdonald.utexas.edu/research-facilities/HJST) at McDonald Observatory of the University of Texas.
+Welcome! This GitHub organization hosts software and documentation developed for the [Harlan J. Smith Telescope](https://mcdonald.utexas.edu/research-facilities/HJST) at McDonald Observatory of the University of Texas.
 
 ---
 
@@ -20,3 +18,5 @@ This GitHub organization hosts software and documentation developed for the [Har
 - Maintained by the **McDonald Observatory** software team  
 - Most repositories herein are licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)  
 - Contributions and issues are welcome! Please see each individual repo for contribution guidelines.
+- Some repos are private and will return `404` if you are not a member of the development team.
+
