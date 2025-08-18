@@ -1,6 +1,6 @@
-# Welcome to TCS at HJST at McDonald Observatory 
+# TCS at HJST
 
-This is very much a work-in-progress.
+Documentation and software for the telescope control systems at HJST
 
 ## TCS Overview
 

@@ -1,6 +1,6 @@
-# Welcome to the VIRUS2 instrument at HJST at McDonald Observatory 
+# VIRUS2 instrument at HJST
 
-Here you will find the control software and documentation developed for the VIRUS2 spectrograph at HJST.
+Control software and documentation developed for the VIRUS2 spectrograph at HJST.
 
 ## VIRUS2 Overview
 
