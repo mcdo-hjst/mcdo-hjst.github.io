@@ -1,0 +1,32 @@
+/* Color overrides for jekyll-theme-cayman */
+
+/* Header banner color gradient */
+.page-header {
+  background: #020024; /* black by default, or replace with background: #111; flat dark gray */
+  color: #eee;         /* light text */
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(25, 25, 112, 1) 67%, rgba(191, 87, 0, 1) 100%);
+  background-size: cover;
+  background-position: center;
+}
+
+/* Title and tagline */
+.project-name { color: #fff; }
+.project-tagline { color: #bbb; }
+
+/* Page background and text */
+body {
+  background: #181818; /* dark gray */
+  color: #ddd;         /* light gray text */
+}
+
+/* Links */
+a { color: #5fa8ff; }
+a:hover { color: #9fcfff; }
+
+/* Footer text */
+.site-footer-owner,
+.site-footer-credits {
+  color: #888;
+}
+
+

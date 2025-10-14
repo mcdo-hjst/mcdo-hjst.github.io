@@ -1,3 +1,10 @@
+---
+title: MCDO-HJST
+---
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
+
 # MCDO-HJST
 
 Welcome! This GitHub organization hosts software and documentation developed for the [Harlan J. Smith Telescope](https://mcdonald.utexas.edu/research-facilities/HJST) at McDonald Observatory of the University of Texas.
