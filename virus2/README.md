@@ -1,4 +1,4 @@
-# VIRUS2 instrument at HJST
+# VIRUS2 Instrument at HJST
 
 Control software and documentation developed for the VIRUS2 spectrograph at HJST.
 
@@ -21,9 +21,11 @@ Some repositories are currently private and will return a `404` if you are not a
     - **[virus2-systems](https://github.com/mcdo-hjst/virus2-systems/)**: Host system OS install, networking configuration, and user accounts
 - VIRUS2 Detector and Cryostat
     - **[virus2-archon](https://github.com/mcdo-hjst/virus2-archon/)**: CCD detector control software
+    - **[virus2-chiller](https://github.com/mcdo-hjst/virus2-chiller/)**: Glycol coolant chiller control software
     - **[virus2-cryocooler](https://github.com/mcdo-hjst/virus2-cryocooler/)**: Cryo-cooler control software
-    - **[virus2-enclosure](https://github.com/mcdo-hjst/virus2-enclosure/)**: Unit enclosure sensor software
+    - **[virus2-enclosure](https://github.com/mcdo-hjst/virus2-enclosure/)**: Detector unit enclosure software
     - **[virus2-pump](https://github.com/mcdo-hjst/virus2-pump/)**: Ion pump control software
+    - **[mcdo-cal](https://github.com/mcdo-hjst/mcdo-cal/)**: Lab calibration unit control software
 - VIRUS2 Input Head
     - **[virus2-actuator](https://github.com/mcdo-hjst/virus2-actuator/)**: Focal stage position actuator control software
     - **[virus2-calibration](https://github.com/mcdo-hjst/virus2-calibration)**: Input head assembly and calibration control software
@@ -32,8 +34,12 @@ Some repositories are currently private and will return a `404` if you are not a
 - VIRUS2 Telescope Interface
     - **[virus2-guider](https://github.com/mcdo-hjst/virus2-guider/)**: Guider and interface for HJST telescope control system
     - **[virus2-tcs](https://github.com/mcdo-hjst/virus2-tcs/)**: control interface for HJST TCS (via TCSMON)
-- WIP: VIRUS2 Applications Framework, Systems Integration, and User Interfaces 
+- VIRUS2 Systems Integration
     - **[virus2-framework](https://github.com/mcdo-hjst/virus2-framework/)**: RPC and Messaging Application framework for systems integration, controls, and messaging
     - **[virus2-unit](https://github.com/mcdo-hjst/virus2-unit/)**: Unit RPC and Messaging server/client applications
     - **[virus2-dashboards](https://github.com/mcdo-hjst/virus2-dashboards/)**: science user interface dashboards for monitoring and control
 
+## Related MCDO Repositories
+
+- Data Reduction
+    - **[Antigen](https://github.com/maya-debski/Antigen)**: data reduction software for multiple VIRUS instrument variants

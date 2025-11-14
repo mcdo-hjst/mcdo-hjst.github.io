@@ -25,4 +25,6 @@ Starting in 2024, funds have been allocated and work begun on upgrades to the cu
 - **[hjst-tcs-pmac](https://github.com/mcdo-hjst/hjst-tcs-pmac)**: WIP: Software for HJST PMAC motion controller, including motional control (MC) language, programmable logic controller (PLC) language, and GPASCII (CLI)
 - **[hjst-tcs-telescopy](https://github.com/mcdo-hjst/hjst-tcs-telescopy)**: WIP: Communications and command interface for new telescope motion controller under development.
 
+## Related resources
 
+- [82in OttoStruve HOWTO Videos](https://www.youtube.com/playlist?list=PLoasOmkYn4S5n-wVjgpcYCFVMPcKBFUeU)
