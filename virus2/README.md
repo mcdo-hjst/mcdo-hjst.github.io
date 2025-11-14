@@ -38,3 +38,8 @@ Some repositories are currently private and will return a `404` if you are not a
     - **[virus2-framework](https://github.com/mcdo-hjst/virus2-framework/)**: RPC and Messaging Application framework for systems integration, controls, and messaging
     - **[virus2-unit](https://github.com/mcdo-hjst/virus2-unit/)**: Unit RPC and Messaging server/client applications
     - **[virus2-dashboards](https://github.com/mcdo-hjst/virus2-dashboards/)**: science user interface dashboards for monitoring and control
+
+## Related MCDO Repositories
+
+- Data Reduction
+    - **[Antigen](https://github.com/maya-debski/Antigen)**: data reduction software for multiple VIRUS instrument variants
