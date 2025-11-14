@@ -25,7 +25,7 @@ Some repositories are currently private and will return a `404` if you are not a
     - **[virus2-cryocooler](https://github.com/mcdo-hjst/virus2-cryocooler/)**: Cryo-cooler control software
     - **[virus2-enclosure](https://github.com/mcdo-hjst/virus2-enclosure/)**: Detector unit enclosure software
     - **[virus2-pump](https://github.com/mcdo-hjst/virus2-pump/)**: Ion pump control software
-    - **[mcdo-cal](https://github.com/mcdo-hjst/mcdo-cal/)**: Lab calibration unit control software
+    - **[mcdo-calibration](https://github.com/mcdo-hjst/mcdo-calibration/)**: Lab calibration unit control software
 - VIRUS2 Input Head
     - **[virus2-actuator](https://github.com/mcdo-hjst/virus2-actuator/)**: Focal stage position actuator control software
     - **[virus2-calibration](https://github.com/mcdo-hjst/virus2-calibration)**: Input head assembly and calibration control software
